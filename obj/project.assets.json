@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "/Users/yasudamakoto/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/yasudamakoto/product/C_Sharp/MyWebApp/MyWebApp.csproj",
+      "projectName": "MyWebApp",
+      "projectPath": "/Users/yasudamakoto/product/C_Sharp/MyWebApp/MyWebApp.csproj",
+      "packagesPath": "/Users/yasudamakoto/.nuget/packages/",
+      "outputPath": "/Users/yasudamakoto/product/C_Sharp/MyWebApp/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/yasudamakoto/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "runtimeIdentifierGraphPath": "/Users/yasudamakoto/Library/Caches/VisualStudio/8.0/MSBuild/64735_1/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
